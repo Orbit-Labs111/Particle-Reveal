@@ -1,0 +1,6 @@
+{
+  "name": "Dot Image Reveal",
+  "description": "An interactive magnetic dot matrix grid that reveals a vibrant image on hover or touch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
